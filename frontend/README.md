@@ -45,13 +45,6 @@ A modern, beautiful sports card collection management application built with Nex
 - **Animations**: Smooth hover effects and transitions
 - **Responsive**: Mobile-first design approach
 
-## Backend Integration
-
-The frontend connects to a FastAPI backend for:
-- User authentication and management
-- Card CRUD operations
-- Image uploads and storage
-
 ## Technologies Used
 
 - **Next.js 14**: React framework with App Router
