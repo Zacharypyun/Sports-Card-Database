@@ -2,6 +2,8 @@
 
 A full-stack application for managing sports card collections with user authentication.
 
+![Alt text](images/card-database.jpg)
+
 ## Features
 
 - User registration and authentication
